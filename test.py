@@ -11,6 +11,15 @@ class Player():
     def move_x(self):
         self.xpose += self.xspeed
 
+    def move_minusx(self):
+        self.xpose -= self.xspeed
+    
     def move_y(self):
-        self.ypose += self.yspeed        
+        self.ypose += self.yspeed
+
+    def move_minusy(self):
+        self.ypose -= self.yspeed
+
+    def stat(self):
+        print(self.xpose, self.ypose, self.xspeed, self.yspeed)
 
