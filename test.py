@@ -22,4 +22,7 @@ class Player():
 
     def stat(self):
         print(self.xpose, self.ypose, self.xspeed, self.yspeed)
+    def funkn(self):
+        print(__name__)
+
 
