@@ -1,1 +1,3 @@
-Test repository containing all sorts of files
+_______________________________________________
+|Test repository containing all sorts of files|
+ ---------------------------------------------
